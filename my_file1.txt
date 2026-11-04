@@ -1,2 +1,6 @@
 sdksdklvjlkdsfhbdfl
+<<<<<<< HEAD
 Heyy this is github
+=======
+heyyy
+>>>>>>> modified my_file1.txt
